@@ -3,7 +3,6 @@ package com.guoguo.weixin.model;
 /**
  * 音乐消息
  * 
- * @date 2013-05-19
  */
 public class MusicMessage extends BaseMessage {
 	// 音乐

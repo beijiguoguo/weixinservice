@@ -13,7 +13,6 @@ import com.guoguo.common.model.ViewButton;
 /**
  * 菜单管理器类
  * 
- * @date 2013-08-08
  */
 public class MenuManager {
     private static Logger log = LoggerFactory.getLogger(MenuManager.class);

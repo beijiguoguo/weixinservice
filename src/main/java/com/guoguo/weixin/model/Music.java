@@ -3,7 +3,6 @@ package com.guoguo.weixin.model;
 /**
  * 音乐model
  * 
- * @date 2013-05-19
  */
 public class Music {
 	// 音乐名称

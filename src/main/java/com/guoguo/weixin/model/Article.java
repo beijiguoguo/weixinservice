@@ -3,7 +3,6 @@ package com.guoguo.weixin.model;
 /**
  * 图文model
  * 
- * @date 2013-05-19
  */
 public class Article {
 	// 图文消息名称
